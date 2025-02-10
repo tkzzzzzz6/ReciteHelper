@@ -1,0 +1,14 @@
+# 语音识别相关
+SpeechRecognition==3.10.0
+PyAudio==0.2.13
+baidu-aip==4.16.10
+
+# GUI相关
+ttkthemes==3.2.2
+
+# 文本处理
+jieba==0.42.1
+
+# 其他工具
+numpy==1.24.3
+python-dotenv==1.0.0 
