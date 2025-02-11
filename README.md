@@ -63,7 +63,7 @@ git clone https://github.com/tkzzzzzz6/ReciteHelper
 
 2. 进入项目目录：
 ```sh
-❯ cd ReciteHelper
+ cd ReciteHelper
 ```
 
 3. 配置环境
